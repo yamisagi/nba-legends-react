@@ -6,7 +6,7 @@
   <h2 align="center">NBA Legends Project</h2>
 
   <p align="center">
-    A React project that shows the NBA Legends and their stats. 
+    A React project that shows the NBA Legends and their stats.
 
   <p>
     <a href="https://github.com/yamisagi/yamisagi"><strong>About Me 💙»</strong></a>
@@ -74,8 +74,12 @@ In this repository, I will create a React project that shows the NBA Legends and
 - [x] Implement the Search Functionality
 - [x] Create CardList Component
 - [x] Implement Data Fetching & Filtering
-
-
+- [x] Create the Footer
+- [x] Implement the Events
+- [x] Create Animation for the Card
+- [x] Implement for Mobile View
+- [x] Project Done 🎉
+- [x] Deploy the Project to Netlify 🚀
 
 <p align="center">(Still working on it...)</p>
 

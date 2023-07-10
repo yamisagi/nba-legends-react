@@ -4,7 +4,7 @@ import logo from '../assets/nba-logo.png';
 const Header = () => {
     return (
         <>
-            <Image src={logo} width={"300px"} />
+            <Image src={logo} className='logo' />
             <h1>NBA LEGENDS</h1>
         </>
     );
