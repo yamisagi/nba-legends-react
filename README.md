@@ -72,6 +72,9 @@ In this repository, I will create a React project that shows the NBA Legends and
 - [x] Create & Implement the Search Bar
 - [x] Create the Card Component
 - [x] Implement the Search Functionality
+- [x] Create CardList Component
+- [x] Implement Data Fetching & Filtering
+
 
 
 <p align="center">(Still working on it...)</p>

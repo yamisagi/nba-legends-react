@@ -20,9 +20,9 @@ body {
 
 .card-container {
   background-image: url("./assets/nba.jpg");
-  background-size: cover;
   background-position: center;
+  background-size: cover;
   min-height: 400px;
-  max-width: max-content;
   background-repeat: no-repeat;
 }
+
