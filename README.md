@@ -67,6 +67,11 @@ In this repository, I will create a React project that shows the NBA Legends and
 ## Roadmap
 
 - [x] Project Setup
+- [x] Setup the React-Bootstrap
+- [x] Create the Header
+- [x] Create & Implement the Search Bar
+- [x] Create the Card Component
+- [x] Implement the Search Functionality
 
 
 <p align="center">(Still working on it...)</p>
